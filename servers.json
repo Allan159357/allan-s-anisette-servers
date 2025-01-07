@@ -56,5 +56,9 @@
             "name": "A Random Anisette Server",
             "address": "https://an-random-sidestore-anisette-server.onrender.com"
         },
+        {
+            "name": "Buddian64",
+            "address": "buddian64-anisette.vercel.app"
+        },
     ]
 }
