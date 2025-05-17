@@ -21,16 +21,8 @@
             "address": "https://ani.npeg.us"
         },
         {
-            "name": "Stern",
-            "address": "http://ani.sternserv.xyz"
-        },
-        {
             "name": "Macley",
             "address": "http://5.249.163.88:6969"
-        },
-        {
-            "name": "WesleyBryie",
-            "address": "https://ani.wesbryie.com"
         },
         {
             "name": "SeasiDev",
@@ -45,19 +37,27 @@
             "address": "https://ani.owoellen.rocks"
         },
         {
+            "name": "iDH Server",
+            "address": "https://ani.idevicehacked.com"
+        },
+        {
+            "name": "neoarz",   
+            "address": "https://ani.neoarz.xyz"
+        },
+        {
             "name": "pythonplayer123",
             "address": "https://ani3server.fly.dev"
         },
         {
-            "name": "iDH Server",
-            "address": "https://ani.idevicehacked.com"
+            "name": "Jayden's Server",
+            "address": "https://ani.jaydenha.uk"
         },
         {
             "name": "A Random Anisette Server",
             "address": "https://an-random-sidestore-anisette-server.onrender.com"
         },
         {
-            "name": "Buddian64",
+            "name": "What",
             "address": "https://buddian64-anisette.vercel.app"
         },
     ]
